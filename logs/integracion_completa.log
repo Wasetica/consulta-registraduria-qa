@@ -180,3 +180,43 @@
 2025-12-04 11:46:55,170 - __main__ - INFO - 💾 Resultados guardados en: resultados/15_paralelas_20251204_114655.json
 2025-12-04 11:46:55,187 - __main__ - INFO - 📊 Generando reporte final...
 2025-12-04 11:46:55,188 - __main__ - INFO - 📄 Reporte generado: output/reporte_final_20251204_114655.json
+2025-12-04 14:55:41,415 - __main__ - INFO - 🚀 Inicializando Sistema Completo...
+2025-12-04 14:55:41,639 - storage.database - INFO - ✅ Base de datos inicializada con 3 tablas
+2025-12-04 14:55:41,639 - storage.database - INFO - ✅ Sistema de almacenamiento inicializado: consultas_registraduria.db
+2025-12-04 14:55:41,639 - __main__ - INFO - ✅ Sistema de almacenamiento cargado
+2025-12-04 14:55:41,650 - extractors.data_extractor - INFO - ✅ Extractor de PDF inicializado
+2025-12-04 14:55:41,650 - __main__ - INFO - ✅ Extractor de PDFs cargado
+2025-12-04 14:57:29,081 - __main__ - INFO - 🚀 Inicializando Sistema Completo...
+2025-12-04 14:57:29,293 - storage.database - INFO - ✅ Base de datos inicializada con 3 tablas
+2025-12-04 14:57:29,293 - storage.database - INFO - ✅ Sistema de almacenamiento inicializado: consultas_registraduria.db
+2025-12-04 14:57:29,293 - __main__ - INFO - ✅ Sistema de almacenamiento cargado
+2025-12-04 14:57:29,294 - extractors.data_extractor - INFO - ✅ Extractor de PDF inicializado
+2025-12-04 14:57:29,294 - __main__ - INFO - ✅ Extractor de PDFs cargado
+2025-12-04 14:59:35,456 - __main__ - INFO - 🚀 Inicializando Sistema Completo...
+2025-12-04 14:59:35,655 - storage.database - INFO - ✅ Base de datos inicializada con 3 tablas
+2025-12-04 14:59:35,655 - storage.database - INFO - ✅ Sistema de almacenamiento inicializado: consultas_registraduria.db
+2025-12-04 14:59:35,655 - __main__ - INFO - ✅ Sistema de almacenamiento cargado
+2025-12-04 14:59:35,726 - extractors.data_extractor - INFO - ✅ Extractor de PDF inicializado
+2025-12-04 14:59:35,726 - __main__ - INFO - ✅ Extractor de PDFs cargado
+2025-12-04 14:59:35,727 - integrador_consulta_simple - INFO - ✅ Módulo consulta_simple cargado. Función: realizar_consulta
+2025-12-04 14:59:35,727 - __main__ - INFO - ✅ Integrador con consulta_simple cargado
+2025-12-04 14:59:35,728 - __main__ - WARNING - ⚠️  No se pudo cargar test_concurrent_queries, usando versión interna
+2025-12-04 14:59:35,728 - __main__ - INFO - ✅ Sistema Completo inicializado
+2025-12-04 14:59:35,728 - __main__ - INFO - 🚀 Iniciando 15 consultas paralelas...
+2025-12-04 14:59:36,226 - __main__ - INFO - 💾 Resultados guardados en: resultados/15_paralelas_20251204_145936.json
+2025-12-04 14:59:36,243 - __main__ - INFO - 📊 Generando reporte final...
+2025-12-04 14:59:36,245 - __main__ - INFO - 📄 Reporte generado: output/reporte_final_20251204_145936.json
+2025-12-04 15:02:53,771 - __main__ - INFO - 🚀 Inicializando Sistema Completo...
+2025-12-04 15:02:53,981 - storage.database - INFO - ✅ Base de datos inicializada con 3 tablas
+2025-12-04 15:02:53,981 - storage.database - INFO - ✅ Sistema de almacenamiento inicializado: consultas_registraduria.db
+2025-12-04 15:02:53,981 - __main__ - INFO - ✅ Sistema de almacenamiento cargado
+2025-12-04 15:02:54,047 - extractors.data_extractor - INFO - ✅ Extractor de PDF inicializado
+2025-12-04 15:02:54,048 - __main__ - INFO - ✅ Extractor de PDFs cargado
+2025-12-04 15:02:54,048 - integrador_consulta_simple - INFO - ✅ Módulo consulta_simple cargado. Función: realizar_consulta
+2025-12-04 15:02:54,048 - __main__ - INFO - ✅ Integrador con consulta_simple cargado
+2025-12-04 15:02:54,048 - __main__ - WARNING - ⚠️  No se pudo cargar test_concurrent_queries, usando versión interna
+2025-12-04 15:02:54,048 - __main__ - INFO - ✅ Sistema Completo inicializado
+2025-12-04 15:02:54,048 - __main__ - INFO - 🚀 Iniciando 15 consultas paralelas...
+2025-12-04 15:02:54,517 - __main__ - INFO - 💾 Resultados guardados en: resultados/15_paralelas_20251204_150254.json
+2025-12-04 15:02:54,534 - __main__ - INFO - 📊 Generando reporte final...
+2025-12-04 15:02:54,536 - __main__ - INFO - 📄 Reporte generado: output/reporte_final_20251204_150254.json

@@ -1,0 +1,104 @@
+{
+  "fecha_ejecucion": "2025-12-04T14:59:36.225405",
+  "total_documentos": 15,
+  "tiempo_total": 0.49641895294189453,
+  "documentos": [
+    "TEST000001",
+    "TEST000002",
+    "TEST000003",
+    "TEST000004",
+    "TEST000005",
+    "TEST000006",
+    "TEST000007",
+    "TEST000008",
+    "TEST000009",
+    "TEST000010",
+    "TEST000011",
+    "TEST000012",
+    "TEST000013",
+    "TEST000014",
+    "TEST000015"
+  ],
+  "resultados": [
+    {
+      "success": true,
+      "documento": "TEST000015",
+      "tiempo": 0.16042059366774908
+    },
+    {
+      "success": true,
+      "documento": "TEST000004",
+      "tiempo": 0.12965193442170136
+    },
+    {
+      "success": true,
+      "documento": "TEST000011",
+      "tiempo": 0.43418746978535183
+    },
+    {
+      "success": true,
+      "documento": "TEST000012",
+      "tiempo": 0.416290994877648
+    },
+    {
+      "success": true,
+      "documento": "TEST000008",
+      "tiempo": 0.2895789006958712
+    },
+    {
+      "success": true,
+      "documento": "TEST000014",
+      "tiempo": 0.30179879361704526
+    },
+    {
+      "success": true,
+      "documento": "TEST000009",
+      "tiempo": 0.43419258145388206
+    },
+    {
+      "success": true,
+      "documento": "TEST000003",
+      "tiempo": 0.38341519807737
+    },
+    {
+      "success": true,
+      "documento": "TEST000006",
+      "tiempo": 0.24745293686881098
+    },
+    {
+      "success": true,
+      "documento": "TEST000005",
+      "tiempo": 0.34670065711100984
+    },
+    {
+      "success": true,
+      "documento": "TEST000002",
+      "tiempo": 0.18151128300922298
+    },
+    {
+      "success": true,
+      "documento": "TEST000001",
+      "tiempo": 0.459086702593265
+    },
+    {
+      "success": true,
+      "documento": "TEST000007",
+      "tiempo": 0.25154612774980795
+    },
+    {
+      "success": true,
+      "documento": "TEST000013",
+      "tiempo": 0.2213718234737527
+    },
+    {
+      "success": true,
+      "documento": "TEST000010",
+      "tiempo": 0.1683464345674898
+    }
+  ],
+  "metricas": {
+    "exitosos": 15,
+    "fallidos": 0,
+    "tiempo_promedio": 0.033094596862792966
+  }
+}
